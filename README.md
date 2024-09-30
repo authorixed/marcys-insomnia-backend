@@ -18,4 +18,4 @@ THEN my server is started and the Sequelize models are synced to the PostgreSQL 
 WHEN I open API GET routes in Insomnia Core for categories, products, or tags <br>
 THEN the data for each of these routes is displayed in a formatted JSON <br>
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core <br>
-THEN I am able to successfully create, update, and delete data in my database
+THEN I am able to successfully create, update, and delete data in my database <br>
